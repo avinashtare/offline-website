@@ -7,18 +7,19 @@ Ever wondered how websites can serve content even when you're offline? 🤔 My G
 - Creating a website that functions seamlessly without the internet.
 - Serving a custom offline page when the connection is lost.
 - Insights into how popular platforms like YouTube handle offline scenarios.
-- how service workers and web cache storage work
+- how service workers and web cache storage work.
 
 
 ## 👣 steps
-- git clone https://github.com/avinashtare/offline-website
-- cd offline-website
-- open using any server
-- http://localhost:3000
-- Disconnect your device from the internet or stop server if local
-- now you can see side is working offline
+- git clone https://github.com/avinashtare/offline-website.git
+- cd offline-website.
+- open using any server.
+- http://localhost:3000.
+- Disconnect your device from the internet or stop server if local.
+- now you can see side is working offline.
 
-- online demo https://offline-website-nine.vercel.app/
+## 👿 Demo Example
+- online demo - https://offline-website-nine.vercel.app/
 
 ## 🔗 Explore the Code:
 - Dive into the repository to understand the inner workings and implement similar functionality for your projects.
